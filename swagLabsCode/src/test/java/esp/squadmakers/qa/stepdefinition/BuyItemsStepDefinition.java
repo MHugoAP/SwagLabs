@@ -6,7 +6,6 @@ import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
-import cucumber.api.java.en_scouse.An;
 import esp.squadmakers.qa.model.DataCheckout;
 import esp.squadmakers.qa.model.DataUserPass;
 import esp.squadmakers.qa.task.*;
@@ -20,7 +19,7 @@ import java.util.List;
 
 import static net.serenitybdd.screenplay.actors.OnStage.*;
 
-public class buyItemsStepDefinition {
+public class BuyItemsStepDefinition {
 
     @Managed
     private WebDriver myBrowser;
