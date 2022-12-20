@@ -6,8 +6,8 @@ import net.serenitybdd.cucumber.CucumberWithSerenity;
 import org.junit.runner.RunWith;
 
 @RunWith(CucumberWithSerenity.class)
-@CucumberOptions(features = "src/test/resources/feature/buyItems.feature"
+@CucumberOptions(features = "src/test/resources/feature/logout.feature"
         , glue = "esp.squadmakers.qa.stepdefinition"
         , snippets = SnippetType.CAMELCASE)
-public class BuyItemsRunner {
+public class LogoutRunner {
 }
