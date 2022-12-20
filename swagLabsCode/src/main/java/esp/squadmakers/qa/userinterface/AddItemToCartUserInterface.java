@@ -3,7 +3,7 @@ package esp.squadmakers.qa.userinterface;
 import net.serenitybdd.screenplay.targets.Target;
 import org.openqa.selenium.By;
 
-public class BuyItemsUserInterface {
+public class AddItemToCartUserInterface {
 
     public static final Target ARTICLE_ONE = Target
             .the("Clic on the button sauce-labs-backpack")
