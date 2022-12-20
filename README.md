@@ -21,13 +21,21 @@ The automation of the request will be carried out by implementing various endpoi
 ***
 ### tools
 A list of the tools that will be used in the project:
+
 •	[Java JDK] (https://www.oracle.com/mx/java/technologies/javase/javase8-archive-downloads.html): Version 1.8
+
 •	[Maven] (https://maven.apache.org/download.cgi): Version 3.8.6
+
 •	[Intelling IDE] (https://www.jetbrains.com/es-es/idea/download/#section=windows): Version 2022.2.1
+
 •	[Git] (https://git-scm.com/download/win): Version 2.37.2###instalación
+
 •	Cucumber
+
 •	BDD
+
 •	Serenity
+
 •	design pattern: screen play architecture
 ***
 ### installation
@@ -40,7 +48,11 @@ A small introduction of the installation
 ***
 ### project-structure
 The project will have this structure
+
+
 [![swaglabs-Image.png](https://i.postimg.cc/6QgHy31P/swaglabs-Image.png)](https://postimg.cc/Ffbb69vb)
+
+
 ***
 ### feature-execution
 In order to execute the features, you need an execution order in the runners, its correct execution would be:
